@@ -24,8 +24,8 @@
                 <a class="navbar-brand text-light" href="#">Laravel</a>
                 <div class="collapse navbar-collapse" >
                     <div class="navbar-nav ">
-                        <a class="nav-link text-light active" aria-current="page" href="{{ route('home') }}">Home</a>
-                        <a class="nav-link text-light" href="{{ route('about-us') }}">About us</a>
+                        <a class="nav-link text-light" aria-current="page" href="{{ route('home') }}">Home</a>
+                        <a class="nav-link text-light active" href="{{ route('about-us') }}">About us</a>
                         <a class="nav-link text-light" href="{{ route('contacts') }}">Contacts</a>
                     </div>
                 </div>
@@ -34,10 +34,10 @@
     </header>
     <main>
         <div class="container my-3">
-            <h1>Hello world</h1>
-            <div class="p-5 mb-4 bg-success rounded-3">
+            <h1>Hello Earth</h1>
+            <div class="p-5 mb-4 bg-warning rounded-3">
                 <div class="container-fluid py-5">
-                    <h1 class="display-5 fw-bold">First page using Laravel</h1>
+                    <h1 class="display-5 fw-bold">Second page using Laravel</h1>
                     <p class="col-md-8 fs-4">
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, nostrum.
                     </p>

@@ -17,4 +17,4 @@ php artisan serve oppure php -S localhost:8000 -t public
 - [X] Inizialmente stampiamo un "Hello World", poi passiamo dei dati alla view in modo da visualizzarli dinamicamente con Blade.
 
 ## Bonus 
-- [] Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le pagine, utilizzando la funzione route()
+- [X] Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le pagine, utilizzando la funzione route()
