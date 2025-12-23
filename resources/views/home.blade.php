@@ -35,6 +35,7 @@
     <main>
         <div class="container my-3">
             <h1>Hello world</h1>
+            <h3> {{$info}} </h3>
             <div class="p-5 mb-4 bg-success rounded-3">
                 <div class="container-fluid py-5">
                     <h1 class="display-5 fw-bold">First page using Laravel</h1>
